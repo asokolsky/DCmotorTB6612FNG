@@ -2,6 +2,7 @@
 Simple class to drive DC motor using Toshiba TB6612FNG IC
 
 ## Schematics
-![alt text](https://github.com/asokolsky/DCmotorTB6612FNG/master/doc/schematics.png "Schematics")
+![alt text](doc/schematics.png "Schematics")
 
 
+ 
